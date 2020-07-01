@@ -1,0 +1,10 @@
+D:\C#\data transmission\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\C#\data transmission\Client\obj\Debug\Client.Form1.resources
+D:\C#\data transmission\Client\obj\Debug\Client.Properties.Resources.resources
+D:\C#\data transmission\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\C#\data transmission\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\C#\data transmission\Client\obj\Debug\Client.exe
+D:\C#\data transmission\Client\bin\Debug\Client.exe.config
+D:\C#\data transmission\Client\bin\Debug\Client.exe
+D:\C#\data transmission\Client\bin\Debug\Client.pdb
+D:\C#\data transmission\Client\obj\Debug\Client.pdb

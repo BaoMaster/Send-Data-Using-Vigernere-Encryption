@@ -1,0 +1,10 @@
+D:\C#\data transmission\Server\bin\Debug\Server.exe.config
+D:\C#\data transmission\Server\bin\Debug\Server.exe
+D:\C#\data transmission\Server\bin\Debug\Server.pdb
+D:\C#\data transmission\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\C#\data transmission\Server\obj\Debug\Server.Server.resources
+D:\C#\data transmission\Server\obj\Debug\Server.Properties.Resources.resources
+D:\C#\data transmission\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\C#\data transmission\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\C#\data transmission\Server\obj\Debug\Server.exe
+D:\C#\data transmission\Server\obj\Debug\Server.pdb
